@@ -1,5 +1,5 @@
 # Connect 4 AI
-
+(VERY SIMILAR TO MY TIC TAC TOE IMPLEMENTATION)
 ## What is it?
 This repo contains an implementation of a Connect 4 game with an AI opponent using the Minimax algorithm with alpha-beta pruning. The game is implemented in Python using Pygame for the graphical interface.
 
